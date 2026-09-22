@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /thanks/
 
-Sitemap: https://seap18.github.io/sitemap.xml
+Sitemap: https://syed-esrak-ahmmed.github.io/sitemap.xml
